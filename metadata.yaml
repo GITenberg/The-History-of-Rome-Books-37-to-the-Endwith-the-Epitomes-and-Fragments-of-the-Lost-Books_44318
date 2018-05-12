@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3707
     wikipedia: http://en.wikipedia.org/wiki/Livy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44318#The-History-of-Rome-Books-37-to-the-Endwith-the-Epitomes-and-Fragments-of-the-Lost-Books
 gutenberg_issued: '2013-11-30'
 gutenberg_type: Text
 identifiers:
